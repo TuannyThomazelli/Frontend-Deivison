@@ -36,12 +36,8 @@ Projetos e atividades práticas desenvolvidos na disciplina de **Frameworks Fron
 ## 🔗 Links e Deploys
 
 | Atividade | Tecnologias | Links / Repositórios |
-| :--- | :--- | :--- |
-| **Projeto React (Aula 03)** | React.js | [Repositório](#) |
-| **Projeto Vue (Aula 03)** | Vue.js | [Repositório](#) |
-| **Projeto Angular (Aula 03)** | Angular | [Repositório](#) |
-| **Projeto Next.js (Aula 03)** | Next.js | [Repositório](#) |
-| **API Data e Hora (Aula 04)** | Express / Node.js | [Deploy no Render](#) \| [GitHub](#) |
-| **Front Consumo API (Aula 04)** | HTML/JS ou Framework | [Deploy na Vercel](#) \| [GitHub](#) |
+
+| **API Data e Hora (Aula 04)** | Express / Node.js | [Deploy no Render](https://atividade-express.onrender.com/) \| [GitHub](https://github.com/TuannyThomazelli/Frontend-Deivison) |
+| **Front Consumo API (Aula 04)** | HTML/JS ou Framework | [Deploy na Vercel](https://front-express-og7agews8-tuannythomazelli-3003s-projects.vercel.app/) \| [GitHub](https://github.com/TuannyThomazelli/Atividade_express) |
 
 ---
